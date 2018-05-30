@@ -1,0 +1,321 @@
+/* this is an external stylesheet. the advantage here is that you can change stuff in one place and it updates across the site */
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #555;
+}
+
+nav li {
+    float: left;
+}
+
+nav li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+nav li a:hover {
+    background-color: #green;
+	text-color: #111;}
+	 
+	table {
+		 
+		width:40%;
+		margin-left: 10%;
+		background: #00EEFF; 
+		border: 1px solid black; 
+		padding: 10px;
+		
+		
+	}
+	
+	
+
+	td {text-align: center}
+
+th {background:#ccc;}
+
+td, th {padding:10px;
+  border: 1px solid black; 
+}
+
+tr:hover {background:rgba(0,0,0,.1 ) ;}
+
+
+#change1{
+	
+	width:100px;
+    height:50px;
+    background: #707070; 
+	border:1px solid black;
+	transition: width 2s, border 3s,background 2s;
+		
+	
+}
+
+
+
+#change1:hover {
+	 width:500px;
+	border: 5px solid red;
+} 
+
+
+
+
+
+#change2 {
+	
+	
+	width:400px;
+	height:4px solid yellow;
+	background:#72FAF9;
+	border:1px solid #3200C4;
+	transition: width 2s, border 3s, background 2s;
+	
+		}
+
+
+
+
+
+
+#change2:hover  { 
+    width:300px;
+	border: 3px solid purple;
+	
+
+}
+
+
+
+
+#change3 {
+	
+	width:400px;
+	height:4px solid yellow;
+	background:#72FAF9;
+	border:1px solid #3200C4;
+	transition: width 2s, border 3s, background 2s;
+	
+	
+	
+	
+}
+
+
+	
+	#change3:hover  {
+	
+	width:400px;
+		border:1px solid #3200C4;}
+	
+	
+	
+
+
+
+
+
+#change4{
+	
+	width:400px;
+	height:4px solid yellow;
+	background:#72FAF9;
+	border:1px solid #3200C4;
+	transition: width 2s, border 3s, background 2s;
+	
+	
+	
+	
+}
+
+
+
+
+
+	#change4:hover  {
+	
+	width:400px;
+		border:1px solid #3200C4;}
+	
+	
+
+
+
+
+
+#change5{
+	
+	width:400px;
+	height:4px solid yellow;
+	background:#72FAF9;
+	border:1px solid #3200C4;
+	transition: width 2s, border 3s, background 2s;
+	
+	
+	
+	
+}
+
+
+
+
+
+	#change5:hover  {
+	
+	width:400px;
+		border:1px solid #3200C4;}
+
+
+
+
+
+
+	
+#change6{
+	
+	width:400px;
+	height:4px solid yellow;
+	background:#72FAF9;
+	border:1px solid #3200C4;
+	transition: width 2s, border 3s, background 2s;
+	
+	
+	
+	
+}
+
+
+
+
+
+	#change6:hover  {
+	
+	width:400px;
+		border:1px solid #3200C4;}
+	
+	  
+
+
+
+
+
+	
+#change7{
+	
+	width:400px;
+	height:4px solid yellow;
+	background:#72FAF9;
+	border:1px solid #3200C4;
+	transition: width 2s, border 3s, background 2s;
+	
+	
+	
+	
+}
+
+
+
+
+
+	#change7:hover  {
+	
+	width:400px;
+		border:1px solid #3200C4;}
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+#change8{
+	
+	width:400px;
+	height:4px solid yellow;
+	background:#72FAF9;
+	border:1px solid #3200C4;
+	transition: width 2s, border 3s, background 2s;
+	
+	
+	
+	
+}
+
+
+
+	#change8:hover  {
+	
+	width:400px;
+		border:1px solid #3200C4;}
+	
+	
+
+
+	
+#change9{
+	
+	width:400px;
+	height:4px solid yellow;
+	background:#72FAF9;
+	border:1px solid #3200C4;
+	transition: width 2s, border 3s, background 2s;
+	
+	
+	
+	
+}
+
+
+
+
+	#change9:hover  {
+	
+	width:400px;
+		border:1px solid #3200C4;}
+	
+	
+
+
+
+	
+#change10{
+	
+	width:400px;
+	height:4px solid pink;
+	background:#72FAF9;
+	border:1px solid #18A5FF;
+	transition: width 2s, border 3s, background 2s;
+	
+	
+	
+	
+}
+
+
+
+
+
+	#change10:hover  {
+	
+	width:400px;
+		border:1px solid #4A610E;}
+	
+	
+
