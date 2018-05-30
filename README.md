@@ -1,19 +1,1 @@
 # Portfolio-
-yearning for death 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
